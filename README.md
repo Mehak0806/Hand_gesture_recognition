@@ -1,2 +1,2 @@
 # Hand_gesture_recognition
-by Mehak
+## By Yamini and Vishal
